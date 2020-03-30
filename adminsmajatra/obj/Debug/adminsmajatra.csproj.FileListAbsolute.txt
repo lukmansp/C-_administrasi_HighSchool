@@ -1,0 +1,34 @@
+c:\users\acer\documents\visual studio 2015\Projects\adminsmajatra\adminsmajatra\bin\Debug\adminsmajatra.exe.config
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\bin\Debug\adminsmajatra.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\bin\Debug\adminsmajatra.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\bin\Debug\MySql.Data.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\bin\Debug\MySql.Data.xml
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.mainmenu.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.pembayaran.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.datasiswa.resources
+C:\Users\acer\documents\visual studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.tambahbiaya.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.cekdata.resources
+D:\DLC\adminsmajatra\adminsmajatra\bin\Debug\adminsmajatra.exe.config
+D:\DLC\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.exe
+D:\DLC\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.pdb
+D:\DLC\adminsmajatra\adminsmajatra\bin\Debug\adminsmajatra.exe
+D:\DLC\adminsmajatra\adminsmajatra\bin\Debug\adminsmajatra.pdb
+D:\DLC\adminsmajatra\adminsmajatra\bin\Debug\MySql.Data.dll
+D:\DLC\adminsmajatra\adminsmajatra\bin\Debug\MySql.Data.xml
+D:\DLC\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.csprojResolveAssemblyReference.cache
+D:\DLC\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.cekdata.resources
+D:\DLC\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.datasiswa.resources
+D:\DLC\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.Form1.resources
+D:\DLC\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.mainmenu.resources
+D:\DLC\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.pembayaran.resources
+D:\DLC\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.Properties.Resources.resources
+D:\DLC\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.tambahbiaya.resources
+D:\DLC\adminsmajatra\adminsmajatra\obj\Debug\adminsmajatra.csproj.GenerateResource.Cache
+D:\DLC\adminsmajatra\adminsmajatra\bin\Debug\MySql.Web.dll
+D:\DLC\adminsmajatra\adminsmajatra\bin\Debug\MySql.Web.xml

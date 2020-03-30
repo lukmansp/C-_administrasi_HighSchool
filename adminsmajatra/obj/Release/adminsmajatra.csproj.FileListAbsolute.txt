@@ -1,0 +1,11 @@
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\bin\Release\adminsmajatra.exe.config
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\bin\Release\adminsmajatra.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\bin\Release\adminsmajatra.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\bin\Release\MySql.Data.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\bin\Release\MySql.Data.xml
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Release\adminsmajatra.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Release\adminsmajatra.profil.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Release\adminsmajatra.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Release\adminsmajatra.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Release\adminsmajatra.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\adminsmajatra\adminsmajatra\obj\Release\adminsmajatra.pdb
